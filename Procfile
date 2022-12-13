@@ -1,1 +1,2 @@
-web: npm start
+web: echo "useless"
+service: node index.js
